@@ -23,7 +23,7 @@ Bagging Regressor
 
 Gradient Boosting
 
-Xtreeme gradient boosting
+Xtreme gradient boosting
 
 Random Forest
 
